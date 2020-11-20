@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>views/pedido/songs.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>45</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/music-chord/views/favorito/index.php</file>
+            <file>file:/C:/wamp64/www/music-chord/models/Favorito.php</file>
+            <file>file:/C:/wamp64/www/music-chord/controllers/FavoritoController.php</file>
+            <file>file:/C:/wamp64/www/music-chord/views/layout/sidebar.php</file>
+            <file>file:/C:/wamp64/www/music-chord/models/Entrada.php</file>
+            <file>file:/C:/wamp64/www/music-chord/helpers/utils.php</file>
+            <file>file:/C:/wamp64/www/music-chord/views/entrada/view_one.php</file>
+        </group>
+    </open-files>
+</project-private>
